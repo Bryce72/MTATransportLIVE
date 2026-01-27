@@ -41,17 +41,23 @@ ex. MTA - Thank you for making your API's free.
 
 * TBD 
 
-[//]: # (## Acknowledgments)
+## Acknowledgments
 
-[//]: # ()
+
+
 [//]: # (Inspiration, code snippets, etc.)
 
-[//]: # (* [awesome-readme]&#40;https://github.com/matiassingers/awesome-readme&#41;)
+[//]: # ()
+* [Awesome MTA Wrapper](https://github.com/KatsuteDev/OneMTA)
 
+[//]: # ()
 [//]: # (* [PurpleBooth]&#40;https://gist.github.com/PurpleBooth/109311bb0361f32d87a2&#41;)
 
+[//]: # ()
 [//]: # (* [dbader]&#40;https://github.com/dbader/readme-template&#41;)
 
+[//]: # ()
 [//]: # (* [zenorocha]&#40;https://gist.github.com/zenorocha/4526327&#41;)
 
+[//]: # ()
 [//]: # (* [fvcproductions]&#40;https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46&#41;)
